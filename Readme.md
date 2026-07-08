@@ -1,57 +1,91 @@
 # React Projects
 
-A collection of React projects built while learning React.js and modern front-end development.
+This repository contains my React.js projects built while learning React.
+
+Each project focuses on different React concepts such as components, hooks, state management, event handling, conditional rendering, and responsive UI design.
+
+I will continue updating this repository by adding new projects as I learn.
+
+---
 
 ## Projects
 
 ### 1. Donation Page
 
-A responsive donation page built with React that demonstrates component-based development, reusable UI, and clean project structure.
+A responsive donation page built using React and Vite.
 
-> More React projects will be added as I continue learning.
+**Concepts Used**
+- React Components
+- JSX
+- CSS Styling
+- Component-Based Architecture
 
-## Technologies Used
+---
 
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Vite
+### 2. Light / Dark Mode Toggle
 
-## Skills Practiced
+A simple React application that allows users to switch between Light Mode and Dark Mode using React state.
 
-* Component-based architecture
-* JSX
-* Props
-* State Management
-* Event Handling
-* Responsive Design
-* Project Organization
+**Concepts Used**
+- useState Hook
+- Event Handling
+- Conditional Rendering
+- Inline Styling
 
-## Repository Structure
+---
+
+## Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+
+---
+
+## Folder Structure
 
 ```text
 React_Projects/
 │
-├── donation-page/
-└── (More projects coming soon...)
+├── 01-donation-page/
+├── 02-light-dark-mode-project/
+└── README.md
 ```
+
+---
 
 ## Getting Started
 
-To run any project locally:
+Clone the repository:
+
+```bash
+git clone https://github.com/IshitaPasalkar/React_Projects.git
+```
+
+Go to the project folder:
+
+```bash
+cd React_Projects
+```
+
+Install dependencies:
 
 ```bash
 npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
 ```
 
-## Learning Journey
-
-This repository documents my React learning journey. New projects will be added as I explore more React concepts and build more complex applications.
+---
 
 ## Author
 
 **Ishita Pasalkar**
 
-Aspiring Full-Stack Developer | Learning MERN Stack
+GitHub: https://github.com/IshitaPasalkar
