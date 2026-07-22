@@ -67,6 +67,26 @@ A React application demonstrating how to work with different types of form input
 
 ---
 
+### 4. Feedback Form Project
+
+A React application that collects user feedback through a form and displays the submitted information.
+
+#### Features
+- Name Input
+- Feedback Message Input
+- Form Submission
+- Display Submitted Feedback
+- Clean and Responsive UI
+
+#### Concepts Used
+- useState Hook
+- Controlled Components
+- Form Handling
+- Event Handling
+- Conditional Rendering
+
+---
+
 ## 🛠️ Tech Stack
 
 - React.js
@@ -76,33 +96,20 @@ A React application demonstrating how to work with different types of form input
 - Vite
 
 ---
-### 4. Feedback Form Project
-
-A React application that collects user feedback through a form and displays the submitted information.
-
-#### Features
-- Name input
-- Feedback message input
-- Form submission
-- Display submitted feedback
-- Clean and responsive UI
-
-#### Concepts Used
-- useState Hook
-- Controlled Components
-- Form Handling
-- Event Handling
-- Conditional Rendering
 
 ## 📁 Folder Structure
 
-React_Projects
+```text
+React_Projects/
 │
-├── 01-donation-page
-├── 02-light-dark-mode-project
-├── 03-forms-handling-project
-├── 04-feedback-project
+├── 01-donation-page/
+├── 02-light-dark-mode-project/
+├── 03-forms-handling-project/
+├── 04-feedback-project/
 └── README.md
+```
+
+---
 
 ## ▶️ Getting Started
 
@@ -147,7 +154,12 @@ Through these projects, I am learning:
 - Conditional Rendering
 - Forms Handling
 - Controlled Components
+- Component Reusability
 - Responsive UI Development
+
+More projects will be added as I continue my React learning journey.
+
+---
 
 ## 👩‍💻 Author
 
